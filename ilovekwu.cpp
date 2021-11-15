@@ -8,7 +8,7 @@ int main()
 	string test_string="IloveKWU!";
 	for(int i=0;i<test_string.size();i++)
 	{
-		cout<<test_string.at(i);
+		cout<<test_string.at(i)<<endl;
 	}
 	cout<<endl;
 	return 0;	
